@@ -1,0 +1,14 @@
+person:
+  name: 王耶波
+  age: 22
+  addr: 洛阳
+user2: { name: 王耶波,age: 28,addr: 洛阳}
+cities:
+  - 广州市
+  - 深圳市
+  - 湛江市
+  - 茂名市
+  - 廉江市
+server:
+  servlet:
+    context-path: /demo
